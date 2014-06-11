@@ -1,7 +1,7 @@
 /*
  * Dht11.cpp
  *
- * Version 0.5
+ * Version 0.5  (6월11일))
  *
  * DHT11 Temperature and humidity sensor library for Arduino.
  *
